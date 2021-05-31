@@ -7,6 +7,8 @@ public class RestAPI {
 	public void postJira()
 	{
 		System.out.println("post jira");
+		System.out.println("post jira12");
+		System.out.println("post jira23");
 	}
 
 	public void deletetwitter()
